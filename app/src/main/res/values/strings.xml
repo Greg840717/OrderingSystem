@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">OrderingSystem</string>
+    <string name="app_name">點餐系統</string>
+    <string name="order">點餐:</string>
+    <string name="select">選擇</string>
+    <string name="order_drink">飲料:</string>
+    <string name="order_sweet">甜度:</string>
+    <string name="order_ice">冰塊:</string>
+    <string name="nothing">無</string>
+    <string name="checkmenu">確認餐點:</string>
+    <string name="drink_name">請輸入飲料名稱</string>
+    <string name="menu_drink">飲料</string>
+    <string name="menu_sweet">甜度</string>
+    <string name="menu_ice">冰塊</string>
+    <string name="sent">送出</string>
 </resources>
